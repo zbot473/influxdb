@@ -34,6 +34,7 @@ private.key
 ui/node_modules
 ui/coverage
 ui/npm-error.log
+ui/yarn-error.log
 ui/build
 ui/.cache
 ui/package-lock.json
